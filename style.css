@@ -1,0 +1,627 @@
+.desktop,
+.desktop * {
+  box-sizing: border-box;
+}
+.desktop {
+  background: #ffffff;
+  max-width: 100%;
+  height: 4127px;
+  position: relative;
+  overflow: hidden;
+}
+.section {
+  background: linear-gradient(to left, #3139fb, #3139fb);
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  height: 3045px;
+  position: absolute;
+  right: -2538px;
+  left: -2375px;
+  top: -72px;
+}
+.frame-3 {
+  width: 1264px;
+  height: 3881px;
+  position: absolute;
+  left: calc(50% - 632.5px);
+  top: calc(50% - 2018.5px);
+}
+.frame-9 {
+  width: 924px;
+  height: 628px;
+  position: absolute;
+  left: 170px;
+  top: 3251px;
+}
+.peerlistlogo {
+  width: 75px;
+  height: 65px;
+  position: absolute;
+  left: calc(50% - 1px);
+  top: calc(50% - -229px);
+}
+.social-icons {
+  position: absolute;
+  left: calc(50% - 65px);
+  top: calc(50% - -234px);
+  overflow: visible;
+}
+.frame-2 {
+  width: 168.46px;
+  height: 129.97px;
+  position: absolute;
+  left: calc(50% - 84px);
+  top: 392px;
+}
+.follow-creator {
+  color: #3139fb;
+  text-align: left;
+  font-family: 'Corben', cursive;  position: absolute;
+  left: calc(50% - 25.23px);
+  top: calc(50% - -10px);
+  width: 118.38px;
+  height: 18.99px;
+  transform-origin: 0 0;
+  transform: rotate(-1.475deg) scale(1, 1);
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vector2 {
+  position: absolute;
+  left: calc(50% - 69.34px);
+  top: calc(50% - 64.99px);
+  transform: translate(-3.75px, 18.31px);
+  overflow: visible;
+}
+.this-is-a-basic-prototype-with-a-spatial-vision {
+  color: #3139fb;
+  text-align: left;
+  font: 700 italic 42px/48.5px "SF Pro Display", sans-serif;
+  position: absolute;
+  left: calc(50% - 462px);
+  top: calc(50% - -7px);
+  width: 924px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.replit {
+  width: 264px;
+  height: 82px;
+  position: absolute;
+  left: calc(50% - -3px);
+  top: calc(50% - 127px);
+}
+.peerlist {
+  width: 242px;
+  height: 62px;
+  position: absolute;
+  left: calc(50% - 284px);
+  top: calc(50% - 119px);
+}
+.by {
+  color: #000000;
+  text-align: center;
+  font: 900 52px/48.5px "Swear Display", sans-serif;
+  position: absolute;
+  left: calc(50% - 462px);
+  top: calc(50% - 177px);
+  width: 924px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.generative-ai-hackathon {
+  color: #000000;
+  text-align: center;
+  font: 900 52px/48.5px "Swear Display", sans-serif;
+  position: absolute;
+  left: calc(50% - 296px);
+  top: calc(50% - 241px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.for {
+  color: #3139fb;
+  text-align: center;
+  font: 900 52px/48.5px "Swear Display", sans-serif;
+  position: absolute;
+  left: calc(50% - 462px);
+  top: calc(50% - 314px);
+  width: 924px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ipad {
+  width: 488px;
+  height: 676px;
+  position: absolute;
+  left: calc(50% - -110px);
+  top: calc(50% - -540.5px);
+}
+.rover {
+  width: 441px;
+  height: 433px;
+  position: absolute;
+  left: calc(50% - 125px);
+  top: calc(50% - -708.5px);
+}
+.toycar {
+  width: 404px;
+  height: 389px;
+  position: absolute;
+  left: calc(50% - 94.04px);
+  top: calc(50% - -403.39px);
+  transform-origin: 0 0;
+  transform: rotate(-12.395deg) scale(1, 1);
+}
+.biplane {
+  width: 367.8px;
+  height: 363.39px;
+  position: absolute;
+  left: calc(50% - -357.37px);
+  top: calc(50% - -299.5px);
+  transform-origin: 0 0;
+  transform: rotate(15.052deg) scale(1, 1);
+}
+.manufacturing-industrial-training-gaming-entertainment-automotive-aerospace {
+  color: #ffffff;
+  text-align: left;
+  font: 400 38px/48.5px "SF Pro Display", sans-serif;
+  font-weight: bold;
+  position: absolute;
+  left: calc(50% - 632px);
+  top: calc(50% - -783.5px);
+  width: 685px;
+  height: 251px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.further-possibilities-in-ar-vr {
+  color: #ffffff;
+  text-align: left;
+  font: 900 80px/80px "Swear Display", sans-serif;
+  position: absolute;
+  left: calc(50% - 686px);
+  top: calc(50% - -405.5px);
+  width: 452px;
+  height: 233px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.vector3 {
+  position: absolute;
+  left: calc(50% - -258.09px);
+  top: calc(50% - 272.5px);
+  transform: translate(-26.05px, 22.92px);
+  overflow: visible;
+}
+.vector4 {
+  position: absolute;
+  left: calc(50% - -37px);
+  top: calc(50% - 598.5px);
+  transform: translate(-146px, 0px);
+  overflow: visible;
+}
+.vector5 {
+  position: absolute;
+  left: calc(50% - 207.73px);
+  top: calc(50% - 0px);
+  transform: translate(-89.71px, -158.84px);
+  overflow: visible;
+}
+.frame-10 {
+  width: 643px;
+  height: 320px;
+  position: absolute;
+  left: 489px;
+  top: 1077px;
+}
+.frame-4 {
+  width: 101px;
+  height: 101px;
+  position: absolute;
+  left: 0px;
+  top: 120px;
+}
+.step1 {
+  position: absolute;
+  left: 155px;
+  top: 0;
+  width: 488px;
+  height: 320px;
+}
+
+.circle-1 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+._1 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 80px/80px "Comforter Brush", sans-serif;
+  position: absolute;
+  left: calc(50% - 12.5px);
+  top: calc(50% - 25.5px);
+  width: 25px;
+  height: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-11 {
+  width: 589px;
+  height: 320px;
+  position: absolute;
+  left: 698px;
+  top: 1384px;
+}
+.frame-5 {
+  width: 101px;
+  height: 101px;
+  position: absolute;
+  left: 0px;
+  top: 106px;
+}
+.step2{
+position: absolute;
+  left: 157px;
+  top: -35px;
+  width: 432px;
+  height: 320px;
+}
+.circle-13 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+._2 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 80px/80px "Comforter Brush", sans-serif;
+  position: absolute;
+  left: calc(50% - 25.5px);
+  top: calc(50% - 25.5px);
+  width: 25px;
+  height: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-12 {
+  width: 693px;
+  height: 376px;
+  position: absolute;
+  left: 446px;
+  top: 1840px;
+}
+.frame-6 {
+  width: 101px;
+  height: 101px;
+  position: absolute;
+  left: 289px;
+  top: 0px;
+}
+.step3{
+  position: absolute;
+    left: calc(50% - 385.5px);
+    top: 120px;
+    width: 693px;
+    height: 320px;
+  }
+.circle-15 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+._3 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 80px/80px "Comforter Brush", sans-serif;
+  position: absolute;
+  left: calc(50% - 25.5px);
+  top: calc(50% - 25.5px);
+  width: 25px;
+  height: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-13 {
+  width: 489px;
+  height: 421px;
+  position: absolute;
+  left: 11px;
+  top: 1469px;
+}
+.frame-7 {
+  width: 101px;
+  height: 101px;
+  position: absolute;
+  left: 131px;
+  top: 320px;
+}
+.step4{
+  position: absolute;
+    left: calc(50% - 155.5px);
+    top: calc(50% - 325.5px);
+    width: 489px;
+    height: 314px;
+  }
+.circle-17 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+._4 {
+  color: #ffffff;
+  text-align: left;
+  font: 400 80px/80px "Comforter Brush", sans-serif;
+  position: absolute;
+  left: calc(50% - 25.5px);
+  top: calc(50% - 25.5px);
+  width: 25px;
+  height: 51px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.the-process {
+  color: #ffffff;
+  text-align: left;
+  font: 900 80px/80px "Swear Display", sans-serif;
+  position: absolute;
+  left: calc(50% - 686px);
+  top: calc(50% - 877.5px);
+  width: 319px;
+  height: 233px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-1 {
+  width: 1080px;
+  height: 415px;
+  position: absolute;
+  left: calc(50% - 649px);
+  top: calc(50% - 1400.5px);
+}
+.imagine-taking-a-simple-2-d-image-of-a-house-perhaps-a-blueprint-or-a-photograph-and-magically-transforming-it-into-a-fully-immersive-3-d-isometric-home-that-you-can-explore-in-web-or-ar-vr-here-for-demo-we-use-randomly-auto-generated-2-d-sketch-s {
+  color: #ffffff;
+  text-align: left;
+  position: absolute;
+  left: calc(50% - 512px);
+  top: 0px;
+  width: 1023px;
+  height: 415px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.imagine-taking-a-simple-2-d-image-of-a-house-perhaps-a-blueprint-or-a-photograph-and-magically-transforming-it-into-a-fully-immersive-3-d-isometric-home-that-you-can-explore-in-web-or-ar-vr-here-for-demo-we-use-randomly-auto-generated-2-d-sketch-s-span {
+  color: #ffffff;
+  font: 700 34px/40px "SF Pro Display", sans-serif;
+}
+.imagine-taking-a-simple-2-d-image-of-a-house-perhaps-a-blueprint-or-a-photograph-and-magically-transforming-it-into-a-fully-immersive-3-d-isometric-home-that-you-can-explore-in-web-or-ar-vr-here-for-demo-we-use-randomly-auto-generated-2-d-sketch-s-span2 {
+  color: #ffffff;
+  font: 500 italic 26px/40px "SF Pro Display", sans-serif;
+}
+
+
+.button {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 14px 20px 14px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  width: 171px;
+  height: 80px;
+  position: absolute;
+  left: 350px;
+  top: 472px;
+  transition: opacity 0.3s ease; /* Add a transition for smooth appearance/disappearance */
+  opacity: 1; /* Initially, the button is visible */
+}
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%; /* Set a fixed width */
+    height: 100%; /* Set a fixed height */
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.button.disabled-button {
+  cursor: not-allowed;
+  opacity: 0.7; /* Reduce opacity to indicate it's disabled */
+}
+
+.icon-container {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+}
+.label {
+  color: #3139fb;
+  text-align: left;
+  font: 900 17px/22px "SF Pro", sans-serif;
+  position: relative;
+  width: 97px;
+  height: 21px;
+  flex-grow: 1; /* Allow the "GENERATE" text to grow and take available space */
+}
+.frame-8 {
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  position: relative;
+}
+.shuffle {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: visible;
+}
+.path-2-copy-2 {
+  border-radius: 0px;
+  position: absolute;
+  left: 20px;
+  top: 17.5px;
+  overflow: visible;
+}
+.path-5-copy {
+  border-radius: 0px;
+  position: absolute;
+  left: 2.5px;
+  top: 22.5px;
+  transform: translate(-1px, -16px);
+  overflow: visible;
+}
+.path-2-copy {
+  border-radius: 0px;
+  position: absolute;
+  left: 18.75px;
+  top: 2.5px;
+  overflow: visible;
+}
+.firstshow {
+  width: 603px;
+  height: 458px;
+  position: absolute;
+  left: calc(50% - 390px);
+  top: calc(50% - 1800.5px);
+}
+.dream-arch-in-3-d {
+  color: #ffffff;
+  text-align: left;
+  font: 900 80px/80px "Swear Display", sans-serif;
+  position: absolute;
+  left: calc(50% - 686px);
+  top: calc(50% - 1940.5px);
+  width: 252px;
+  height: 233px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+
+
+
+.container {
+  position: relative;
+  height: 100vh;
+}
+
+.part {
+  text-align: center;
+}
+
+.part-a {
+  position: absolute;
+  top: 50%;
+  left: 30%;
+  transform: translate(-50%, -50%);
+}
+
+.part-a img {
+  max-width: 600px; /* Adjust to your preferred width */
+  max-height: 450px; /* Adjust to your preferred height */
+}
+
+
+.part-b {
+  position: absolute;
+  top: 50%;
+  left: 70%; /* Adjust this value for spacing between sketch images and main image */
+  transform: translate(-50%, -50%);
+}
+
+
+
+.try-new-sketches {
+  font: 700 56px/40px "Swear Display", sans-serif;
+  font-size: 16px;
+  color: #3139fb; /* Adjust the color as needed */
+  text-align: center;
+  margin-bottom: -30px; /* Add margin to separate it from the sketch images */
+}
+
+/* New CSS for modal container and its contents */
+.modal,
+.modal * {
+box-sizing: border-box;
+}
+.modal {
+background: var(--base-white, #ffffff);
+border-radius: 12px;
+display: flex;
+flex-direction: column;
+gap: 0px;
+align-items: center;
+justify-content: flex-start;
+width: 270px;
+height: 500px;
+position: relative;
+box-shadow: var(
+  --shadow-xl-box-shadow,
+  0px 8px 8px -4px rgba(16, 24, 40, 0.04),
+  0px 20px 24px -4px rgba(16, 24, 40, 0.1)
+);
+overflow: hidden;
+transition: opacity 0.3s ease; /* Add a transition for smooth appearance/disappearance */
+  opacity: 1;
+}
+.content {
+padding: 16px 16px 0px 16px;
+display: flex;
+flex-direction: column;
+gap: 20px;
+align-items: center;
+justify-content: flex-start;
+align-self: stretch;
+flex-shrink: 0;
+position: relative;
+}
+/* Updated CSS for .image class */
+.image {
+  border-radius: 8px;
+  max-width: 400px; /* Adjust the max width as needed */
+  max-height: 200px; /* Adjust the max height as needed */
+  align-self: center; /* Center the sketch images horizontally within the container */
+  flex-shrink: 0;
+  position: relative;
+}
+
+/* Add this CSS to stack the sketch images */
+.content .image:not(:first-child) {
+  margin-top: 20px; /* Adjust the margin as needed to control spacing between the sketch images */
+}
+
+
+#mainImage {
+  position: relative; /* Add this line */
+  left: 200px; /* Change the left position to 450px */
+  top: -45px; /* Change the top position to -45px */
+  z-index: 2;
+}
+
