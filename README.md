@@ -1,8 +1,8 @@
 # Dream3D
 
-![dream3d uml](https://github.com/SuhasOne/Dream3D/assets/91456565/300aaa2f-36cc-4926-b4f8-42040a2f3dd4)
 # 2D to 3D Isometric House Conversion
 
+<img width="1504" alt="Screenshot 2023-09-25 at 6 11 21 AM" src="https://github.com/SuhasOne/Dream3D/assets/91456565/4c090082-c695-4479-b645-937a58dfd9c5">
 
 ## Overview
 
@@ -32,6 +32,7 @@ Follow these steps to get started with our 2D to 3D conversion:
 4. The 3D conversion process will commence.
 5. Stable diffusion and Replicate.com integration will enhance the 3D model.
 6. Finally, view your 3D isometric house in web, AR, or VR.
+![dream3d uml](https://github.com/SuhasOne/Dream3D/assets/91456565/300aaa2f-36cc-4926-b4f8-42040a2f3dd4)
 
 ## Tech Stack
 
