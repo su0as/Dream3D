@@ -116,28 +116,29 @@ function showLoadingAnimation() {
     // Append the loading animation to the container
     mainImageElement.parentElement.appendChild(loadingAnimation);
 
+  
     setTimeout(() => {
+        // Show the main image
+        mainImageElement.style.display = 'block';
+    
+        // After a 3-second delay, show the sketch images
+        setTimeout(() => {
+            sketchImage1Element.style.display = 'block';
+            sketchImage2Element.style.display = 'block';
+        }, 5000); // 3 seconds delay for the sketch images
+    
+        // Rest of your code
         isLoading = false;
-
-        // Restore the button's initial position
         nextButton.style.left = initialLeft;
         nextButton.style.top = initialTop;
         nextButton.style.transform = 'none';
         loadingAnimation.style.display = 'none';
-        mainImageElement.style.display = 'block'; // Show the main image
-        sketchImage1Element.style.display = 'block'; // Show the sketch images
-        sketchImage2Element.style.display = 'block';
-        //oadingAnimation.remove(); // Remove the loading animation HTML
-
-        // Re-enable the button and restore its appearance
+        showModal('300px', '-45px');
+        updateImages();
         nextButton.disabled = false;
         nextButton.classList.remove('disabled-button');
-
-        // Set the modal's position
-        showModal('300px', '-45px');
-
-        updateImages();
     }, 7000); // 7 seconds
+    
 }
 
   
