@@ -125,7 +125,7 @@ function showLoadingAnimation() {
         setTimeout(() => {
             sketchImage1Element.style.display = 'block';
             sketchImage2Element.style.display = 'block';
-        }, 5000); // 3 seconds delay for the sketch images
+        }, 7000); // 3 seconds delay for the sketch images
     
         // Rest of your code
         isLoading = false;
