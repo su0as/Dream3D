@@ -572,7 +572,7 @@ position: absolute;
 box-sizing: border-box;
 }
 .modal {
-background: var(--base-white, #ffffff);
+background: var(--base-white, #3139fb);
 border-radius: 12px;
 display: flex;
 flex-direction: column;
@@ -582,11 +582,6 @@ justify-content: flex-start;
 width: 270px;
 height: 500px;
 position: relative;
-box-shadow: var(
-  --shadow-xl-box-shadow,
-  0px 8px 8px -4px rgba(16, 24, 40, 0.04),
-  0px 20px 24px -4px rgba(16, 24, 40, 0.1)
-);
 overflow: hidden;
 transition: opacity 0.3s ease; /* Add a transition for smooth appearance/disappearance */
   opacity: 1;
