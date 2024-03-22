@@ -1,6 +1,6 @@
-# Dream3D
+# Dreamrec
 
-# 2D to 3D Isometric House Conversion
+# 
 
 <img width="1504" alt="Screenshot 2023-09-25 at 6 11 21 AM" src="https://github.com/SuhasOne/Dream3D/assets/91456565/4c090082-c695-4479-b645-937a58dfd9c5">
 
